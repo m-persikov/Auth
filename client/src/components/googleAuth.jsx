@@ -1,0 +1,1 @@
+export const googleAuth= () => <div>googleAuth</div>
